@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0175-combine-two-tables) |
+## Array
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1656-count-good-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
