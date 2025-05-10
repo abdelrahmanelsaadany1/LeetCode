@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Enumeration
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
