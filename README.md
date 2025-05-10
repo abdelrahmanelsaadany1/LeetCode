@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1656-count-good-triplets) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1656-count-good-triplets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
