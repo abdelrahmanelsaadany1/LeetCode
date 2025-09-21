@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1656-count-good-triplets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
