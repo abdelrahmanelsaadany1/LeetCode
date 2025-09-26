@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/0197-rising-temperature) |
+| [1908-recyclable-and-low-fat-products](https://github.com/abdelrahmanelsaadany1/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
